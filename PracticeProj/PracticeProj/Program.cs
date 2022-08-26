@@ -18,6 +18,7 @@ namespace PracticeProj
             var k = 0;
             dynamic l;
         }
+        //Main
         static void Main(string[] args)
         {
 
